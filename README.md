@@ -25,9 +25,13 @@ Users can enter passwords and instantly see feedback.
 
 Technology	Purpose
 Python 3.x	Core programming language
+
 Tkinter	GUI for interactive password input
+
 re (Regular Expressions)	Password pattern validation
+
 JSON	Optional storage for password data
+
 
 #How It Works
 
